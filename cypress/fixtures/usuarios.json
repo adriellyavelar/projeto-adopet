@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "name": "Rafaela Ramos",
+            "email": "rafaelaramos@msaengenharia.com.br",
+            "password": "Teste#123"
+        },
+        {
+            "name": "Vinicius Nunes",
+            "email": "vinicius.nunes@hotmail.com",
+            "password": "Teste12345"
+        },
+        {
+            "name": "Henrique Alves",
+            "email": "henriquealves@betti.com.br",
+            "password": "teste@123"
+        },
+        {
+            "name": "Renata",
+            "email": "renatafreitas@budsoncorporation.com",
+            "password": "Teste1234567"
+        },
+        {
+            "name": "Larissa Ramos",
+            "email": "larissa-ramos80@institutodainfancia.com.br",
+            "password": "Teste@12345"
+        }
+    ]
+}
